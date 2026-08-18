@@ -40,8 +40,8 @@ Simulación táctica que aísla las lógicas base de la estética visual. El nú
 
 ### 📫 Cómo contactarme
 
-- **LinkedIn:** [(https://www.linkedin.com/in/alejandro-larco-03297b42a/)]
-- **Portafolio Web:** [Enlace a tu landing page si la tienes]
+* **LinkedIn:** [Alejandro Larco](https://www.linkedin.com/in/alejandro-larco-03297b42a/)
+* **Portafolio Web:** [alejandrolarco.dev](#) <!-- Cambia el # por tu enlace cuando esté subido -->
 - **Ubicación:** Quito, Ecuador 📍
 
 > *"El buen código no solo resuelve el problema, también explica cómo lo resolvió."*
