@@ -41,7 +41,7 @@ Simulación táctica que aísla las lógicas base de la estética visual. El nú
 ### 📫 Cómo contactarme
 
 * **LinkedIn:** [Alejandro Larco](https://www.linkedin.com/in/alejandro-larco-03297b42a/)
-* **Portafolio Web:** [alejandrolarco.dev](#) <!-- Cambia el # por tu enlace cuando esté subido -->
+* **Portafolio Web:** [alejandrolarco.dev](https://alej673.github.io) 
 - **Ubicación:** Quito, Ecuador 📍
 
 > *"El buen código no solo resuelve el problema, también explica cómo lo resolvió."*
