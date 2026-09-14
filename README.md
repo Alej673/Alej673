@@ -64,14 +64,6 @@ Simulación táctica que aísla las lógicas base de la estética visual. El nú
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alej673&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e17&title_color=00f2fe&icon_color=00f2fe)
-
-</div>
-
 ---
 
 ### 📫 Cómo contactarme
